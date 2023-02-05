@@ -1,0 +1,15 @@
+
+.bar-div{
+  width: 90vw;
+}
+
+.center-here{
+  display: flex;
+  justify-content: center;
+}
+
+.choices{
+  width: 90vw;
+  display: flex;
+  justify-content: space-evenly;
+}

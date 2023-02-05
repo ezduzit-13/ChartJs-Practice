@@ -1,0 +1,7 @@
+---- Start Basketball ------
+- Change sport
+- 
+---- Soccer Changes ------
+- Sort by Assist option
+- Sort by goals option
+

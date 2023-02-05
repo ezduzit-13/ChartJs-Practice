@@ -1,0 +1,8 @@
+- Next I would like to add the nba stats
+- nba stats will contain, 
+
+- shooting percentages
+  - 2p percentage
+  - 3p percentage
+  - ft percentage
+
