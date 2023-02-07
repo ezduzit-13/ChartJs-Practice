@@ -14,7 +14,7 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-@app.get('/')
+@app.get('/api/')
 def home():
     return {'hello':'world'}
 
